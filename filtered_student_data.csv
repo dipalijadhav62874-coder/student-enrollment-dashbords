@@ -1,0 +1,11 @@
+Student_ID,Name,Gender,Department,Year,Category,Admission_Year
+101,Student1,Female,IT,Third,Open,2024
+102,Student2,Male,CSE,Second,OBC,2025
+103,Student3,Female,IT,First,SC,2026
+104,Student4,Male,ENTC,Third,Open,2024
+105,Student5,Female,Civil,Final,OBC,2023
+106,Student6,Male,IT,Second,Open,2025
+107,Student7,Female,CSE,First,EWS,2026
+108,Student8,Male,ME,Final,SC,2023
+109,Student9,Female,IT,Third,OBC,2024
+110,Student10,Male,CSE,Second,Open,2025
